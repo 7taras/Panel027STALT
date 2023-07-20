@@ -8,6 +8,7 @@ closed
 ПТ0 на Приразломную
 60k = 15k me + 25k 4Artur
 10k 4me + 15k 4Artur transfer before
+debt 5k
 
 #3
 Матричная панель Ударная
@@ -20,7 +21,12 @@ closed
 СПА Левашово
 90k = 75k 4me
 ?30+25k
+debt 75k
 
 #5
 СПА Ударная
 30k = 20k 4me
+debt 20k
+
+sum debt 100
+total 30+25 + 35+15+15 = 120
